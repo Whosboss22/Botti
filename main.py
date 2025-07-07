@@ -6,7 +6,7 @@ from botticommands import *
 
 # create discord client
 client = discord.Client()
-token = 'OTc2NTY2MTY3MzExMzY4MjMy.GU8ZAI.NSSzrqI09VeEgBgYaW4qybzpxUXkN_6dVEA0UM'
+token = ''
 
 # bot is ready
 @client.event
